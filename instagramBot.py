@@ -94,3 +94,6 @@ while True:
         time.sleep(60)
         ig = InstagramBot(username, password)
         ig.login()
+
+
+#pycharm tst
